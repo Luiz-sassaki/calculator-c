@@ -2,7 +2,7 @@
 É um projeto de um projeto onde viso treinar minhas habilidades na linguagem C
 
 ## Descrição
-O jogo da Fazendeira consiste em uma mistura de aprendizado com entretenimento, onde é utilizado a ferramenta Godot sendo desenvolvido na interface gráfica 2D.
+É uma calculadora onde é possivel fazer as quatro operações
 
 
 ## Tecnologias usadas
