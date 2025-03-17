@@ -1,41 +1,53 @@
-# 📟 Calculadora em C
+﻿# -Jogo da Fazendeira
+É um projeto de um aplicativo para desktop, móvel e web, onde busca misturar entretenimento com aprendizado.
 
-## 💡 Descrição
+## Descrição
+O jogo da Fazendeira consiste em uma mistura de aprendizado com entretenimento, onde é utilizado a ferramenta Godot sendo desenvolvido na interface gráfica 2D.
 
-Este é um projeto simples de **calculadora em linguagem C**, desenvolvida para realizar as quatro operações básicas de matemática: **adição, subtração, multiplicação e divisão**.  
-O programa é interativo, rodando diretamente no terminal, onde o usuário informa dois números e escolhe a operação desejada.
 
----
+## Tecnologias usadas
 
-## 🚀 Funcionalidades
+* ![GDSCRIPT](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
 
-✅ Operações disponíveis:
-- ➕ **Adição**
-- ➖ **Subtração**
-- ✖️ **Multiplicação**
-- ➗ **Divisão** (com verificação de divisão por zero)
 
-✅ Outras características:
-- Interface interativa via terminal.
-- Tratamento de erros para **divisão por zero**.
-- Exibição do resultado com **duas casas decimais**.
-- Simples, leve e de fácil execução em qualquer sistema com compilador C.
+## Instalando a Godot
+1. Download: Acesse o site oficial para baixar a versão 4.3. https://godotengine.org/
+<br>
 
----
+2. Extração/Instalação:
+   Em alguns SOs, basta extrair o arquivo compactado; em outros, pode haver instalador.
+<br>
 
-## 🛠️ Como compilar e executar
+4. Primeira execução:
+   Ao abrir, você verá o Godot Project Manager para gerenciar projetos.
+<br>
 
-### Pré-requisitos:
-- Ter um **compilador C** instalado:
-  - Windows: [MinGW](https://sourceforge.net/projects/mingw/)
-  - Linux: GCC (`sudo apt install gcc`)
-  - MacOS: Xcode Command Line Tools (`xcode-select --install`)
+5. clonar o repositório
+    ```sh
+   https://github.com/Luiz-sassaki/Fazenda-jogo2D.git
+   ```
 
----
+ ## Jogo na prática
 
-### Passos:
+<B>TELA INICIAL</B><br>
+<img src="meu-primeiro-jogo-2d/images/fazenda.png" alt="tela inicial">
 
-#### 1. Clone ou baixe o repositório:
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+## Atualização do jogo
+Agora a fazendeira é capaz de entrar no esconderijo que vai diretamente para dentro de sua casa.
+
+<B>DENTRO DA CASA</B><br>
+<img src="meu-primeiro-jogo-2d/images/casa.png" alt="tela inicial">
+
+
+
+## Desenvolvedor
+
+<a href="https://github.com/Luiz-sassaki"/>
+<img src="https://avatars.githubusercontent.com/u/146211106?v=4" width="80px;" style="border-radius: 50%;" alt="Avatar do Contribuidor"/>
+</a>
+
+<div> 
+Luiz Fellipe Nunes Sassaki - 01608282 <br>
+ 
+</div>
