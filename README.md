@@ -1,4 +1,4 @@
-﻿# -Jogo da Fazendeira
+﻿# -Calculadora
 É um projeto de um aplicativo para desktop, móvel e web, onde busca misturar entretenimento com aprendizado.
 
 ## Descrição
@@ -7,7 +7,7 @@ O jogo da Fazendeira consiste em uma mistura de aprendizado com entretenimento, 
 
 ## Tecnologias usadas
 
-* ![GDSCRIPT](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
+* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 
 ## Instalando a Godot
