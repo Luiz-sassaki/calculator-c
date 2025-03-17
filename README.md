@@ -1,5 +1,5 @@
 ﻿# -Calculadora
-É um projeto de um aplicativo para desktop, móvel e web, onde busca misturar entretenimento com aprendizado.
+É um projeto de um projeto onde viso treinar minhas habilidades na linguagem C
 
 ## Descrição
 O jogo da Fazendeira consiste em uma mistura de aprendizado com entretenimento, onde é utilizado a ferramenta Godot sendo desenvolvido na interface gráfica 2D.
