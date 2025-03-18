@@ -11,6 +11,13 @@ They basically serve to improve my skills with the C programming language.
 
 
 
+ ## The code in practice
+
+<B>HOME SCREEN</B><br>
+
+<img src="/calculator-c.png" alt="home screen">
+
+
 ## Developer
 
 <a href="https://github.com/Luiz-sassaki"/>
